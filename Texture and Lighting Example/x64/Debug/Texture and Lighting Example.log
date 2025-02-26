@@ -1,0 +1,13 @@
+﻿  Model.cpp
+C:\Users\sashm\Desktop\КГГ_курсач\Texture and Lighting Example\Model.h(30,25): warning C4305: =: усечение из "double" в "GLfloat"
+  (компиляция исходного файла "Model.cpp")
+  
+C:\Users\sashm\Desktop\КГГ_курсач\Texture and Lighting Example\Model.cpp(17,30): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\sashm\Desktop\КГГ_курсач\Texture and Lighting Example\Model.cpp(19,31): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\sashm\Desktop\КГГ_курсач\Texture and Lighting Example\Model.cpp(37,30): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\sashm\Desktop\КГГ_курсач\Texture and Lighting Example\Model.cpp(39,31): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\sashm\Desktop\КГГ_курсач\Texture and Lighting Example\Model.cpp(60,30): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\sashm\Desktop\КГГ_курсач\Texture and Lighting Example\Model.cpp(62,31): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\sashm\Desktop\КГГ_курсач\Texture and Lighting Example\Model.cpp(195,30): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\sashm\Desktop\КГГ_курсач\Texture and Lighting Example\Model.cpp(197,31): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  Texture and Lighting Example.vcxproj -> C:\Users\sashm\Desktop\КГГ_курсач\x64\Debug\Texture and Lighting Example.exe
